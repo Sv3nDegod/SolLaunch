@@ -1,0 +1,9 @@
+/* Custom Styles for SolLaunch */
+     2	
+     3	/* Navigation Styles */
+...
+   287	    
+   288	    .text-5xl.md\:text-7xl {
+   289	        @apply text-4xl;
+   290	    }
+   291	} 
